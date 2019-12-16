@@ -1,4 +1,4 @@
-# SB-RESTAPI-JPA-ES
+# SB-JPA-ES-RESTAPI
 <p>CRUD Project for Spring Boot, Spring Data JPA and Elasticsearch - (REST API)</p>
 <li>SB = Spring Boot</li>
 <li>JPA = Spring Data JPA</li>
